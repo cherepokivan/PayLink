@@ -1,0 +1,6 @@
+{
+  "name": "PayLink",
+  "description": "Быстрое получение оплаты по ссылке, QR-коду и NFC через ЮMoney или СБП",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

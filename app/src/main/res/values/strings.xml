@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayLink</string>
+    <string name="nfc_service_description">PayLink NFC Payment Link Transfer</string>
+    <string name="nfc_aid_description">PayLink NDEF Tag</string>
+</resources>
